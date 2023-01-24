@@ -4,7 +4,7 @@ Um projeto de banco de dados é fundamental para o êxito da implementação do 
 
 Dessa forma, É importante garantir, a confiabilidade nos dados, a segurança, desempenho e a disponibilidade. Esses Objetivos são atingidos principalmente com um bom planajamento, esse planejamento pode ser conhecimento como um projeto de banco de dados, uma parte importante do desenvolvimento de qualquer aplicação que utilize dessa tecnologia que por muitas vezes é negligenciada e pode acaba gerando custos e problemas inesperados.
 
-![](Aspose.Words.8e8a5ce5-8a16-4119-a14f-81053115f7fa.001.jpeg)
+![](https://images2.imgbox.com/2c/f9/Qgp9kMVu_o.jpeg)
 
 **1º Passo**
 
